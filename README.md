@@ -1,3 +1,4 @@
 # CSE110-NicholasTc
 
-Nicholas' User Page
+My favorite programming language is Python
+
